@@ -12,6 +12,6 @@
 
 <h2>As áreas de atuação que desejo atuar e me desenvolver são:</h2>
 <li>📒Análise de Dados</li>
-<li>🎥Transmissão e operação de sistemas audiovisual</li>
+<li>🎥Transmissão e operação de sistemas audiovisuais</li>
 <li>🖥️Infraestrutura de TI e redes de computadores</li>
 <li>🖼️Desenvolvimento Web</li>
