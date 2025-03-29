@@ -8,7 +8,6 @@
 <li>C#</li>
 <li>Java</li>
 <li>SQL</li>
-<li>GIT</li>
 
 
 <h2>As áreas de atuação que desejo atuar e me desenvolver são:</h2>
